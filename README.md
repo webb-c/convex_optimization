@@ -5,5 +5,6 @@ conda activate convex_optimization
 ```
 
 ```bash
+conda install matplotlib
 pip install cvxpy
 ```
